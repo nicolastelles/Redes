@@ -1,0 +1,5 @@
+com\mycompany\calculadoraserverrmi\ClienteCalculadoraRMI.class
+com\mycompany\calculadoraserverrmi\ServerCalculadoraRMI.class
+com\mycompany\calculadoraserverrmi\CalculadoraClienteRMI.class
+com\mycompany\calculadoraserverrmi\CalculadoraServerRMI.class
+com\mycompany\calculadoraserverrmi\RMICalculadora.class
